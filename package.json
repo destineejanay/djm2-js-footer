@@ -1,0 +1,22 @@
+{
+  "name": "djm2-js-footer",
+  "version": "0.1.0",
+  "description": "This is a module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destineejanay/djm2-js-footer.git"
+  },
+  "author": "destineejanay <destinee.muse@yahoo.com> (https://www.npmjs.com/~destineejanay)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/destineejanay/djm2-js-footer/issues"
+  },
+  "homepage": "https://github.com/destineejanay/djm2-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
